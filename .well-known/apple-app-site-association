@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DZ5H748G7Y.com.konteysimpore.Slate",
+        "paths": ["/oauth*"]
+      }
+    ]
+  }
+}
